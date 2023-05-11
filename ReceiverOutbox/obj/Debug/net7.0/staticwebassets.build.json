@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rjaCCIM30pwqHUbwkEpyNY6M+lsIK4KzA4vju0uZWTI=",
+  "Source": "ReceiverOutbox",
+  "BasePath": "_content/ReceiverOutbox",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
